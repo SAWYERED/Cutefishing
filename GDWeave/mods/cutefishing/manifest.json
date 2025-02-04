@@ -1,0 +1,14 @@
+{
+    "Id": "cutefishing",
+    "PackPath": "cutefishing.pck",
+    "Dependencies": [
+        "TeamLure-LureRefreshed-4.3.1"
+    ],
+    "Metadata": {
+        "Name": "CUTEFISHING",
+        "Author": "SAWYERED",
+        "Description": "Pink! Pink!! Pink!!! PINK!!!!!!!!!!!!!!!!!",
+        "Version": "1.0.0",
+        "Homepage": ""
+    }
+}

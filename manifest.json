@@ -1,0 +1,10 @@
+{
+    "name": "CUTEFISHING",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Pink! Pink!! Pink!!! PINK!!!!!!!!!!!!!!!!!",
+    "dependencies": [
+        "NotNet-GDWeave-2.0.13",
+        "TeamLure-LureRefreshed-4.3.1"
+    ]
+}
