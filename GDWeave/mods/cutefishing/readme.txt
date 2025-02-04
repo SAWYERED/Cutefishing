@@ -1,6 +1,6 @@
 Thanks for playing with CUTEFISHING!
 Pink! Pink!! Pink!!! PINK!!!!!!!!!!!!!!!!!
-Version: 1.0.0
+Version: 1.0.1
 Authors: SAWYERED
 
 
